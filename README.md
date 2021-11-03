@@ -1,4 +1,4 @@
-# Enter-Project-Name-Here
+# ShareVisu
 
 Group members: Max Gadomski, Maria Hidalgo, Adrian Spork
 
